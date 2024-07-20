@@ -1,0 +1,13 @@
+h1, h3 {
+    background-color: lightblue;
+    font: "Times New Roman";
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: lightseagreen;
+}
